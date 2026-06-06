@@ -5,7 +5,7 @@ function [dat,L] = splatproc3(fnm,res,t,f,g,dst,crp)
 % with optional image cropping
 % Uses regionprops.m
 %
-% USAGE: [dat,L] = splatproc2(fnm,res,t,f,g,dst,crp)
+% USAGE: [dat,L] = splatproc3(fnm,res,t,f,g,dst,crp)
 %
 % INPUT:
 %   fnm - splat image file name(s) (string, cell array, or dir stucture)
